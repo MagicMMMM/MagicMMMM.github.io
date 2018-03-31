@@ -4,5 +4,5 @@
 
 ## Support or Contact
 
-### Mail:MaxAppleMin@gmail.com
+### Mail : MaxAppleMin@gmail.com
 ### We’ll help you sort it out.
