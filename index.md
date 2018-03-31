@@ -1,8 +1,8 @@
-## Welcome to My Pages
+# Welcome to My Pages
 
 
 
-### Support or Contact
+## Support or Contact
 
-#### Mail:MaxAppleMin@gmail.com
-#### We’ll help you sort it out.
+### Mail:MaxAppleMin@gmail.com
+### We’ll help you sort it out.
