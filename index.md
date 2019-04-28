@@ -1,8 +1,8 @@
-# Welcome to My Pages
+# 出彩之家
 
 
 
-## Support or Contact
+## 请通过下面的地址与我们进行联系
 
-### Mail : MaxAppleMin@gmail.com
-### We’ll help you sort it out.
+### 邮箱地址 : MaxAppleMin@gmail.com
+### 感谢您的支持与反馈
